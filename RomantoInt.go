@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("jus tryna undestand one thing")
 	romans := map[string]int{
 		"I": 1,
 		"V": 5,
