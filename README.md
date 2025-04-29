@@ -1,1 +1,1 @@
-"some of the leetcode solutions" 
+[me on leetcode](https://leetcode.com/u/armiyyyn/). 
